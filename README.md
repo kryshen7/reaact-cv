@@ -1,21 +1,30 @@
-<<<<<<< HEAD
-# reaact-cv
-Kişisel CV React uygulaması
-=======
-# React + Vite
+# React CV Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React.js kullanılarak geliştirilmiş kişisel bir CV (özgeçmiş) uygulamasıdır.  
+Amaç, modern React bileşen yapısı ile kullanıcıya şık ve düzenli bir CV arayüzü sunmaktır.
 
-Currently, two official plugins are available:
+## 🚀 Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js ile geliştirilmiştir
+- Component tabanlı yapı
+- Props ve data.js kullanımı
+- Dark / Light tema desteği
+- Sosyal medya ikonları (LinkedIn, Instagram, Twitter)
+- Modern ve responsive tasarım
+- Hover ve animasyon efektleri
 
-## React Compiler
+## 🛠️ Kullanılan Teknolojiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Icons
 
-## Expanding the ESLint configuration
+## 📂 Proje Yapısı
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> b59126e (İlk commit: React CV projesi)
+Canlı demo: [https://reaact-cv.vercel.app](https://reaact-cv.vercel.app)
+
+## Hakkımda
+Ben Mikail, frontend geliştiricisiyim...
+
